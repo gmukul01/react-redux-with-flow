@@ -11,12 +11,14 @@
     "uniqid": "^5.0.3"
   },
   "scripts": {
+    "flow": "flow",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "flow-bin": "^0.79.1"
+    "flow-bin": "^0.79.1",
+    "flow-typed": "^2.5.1"
   }
 }

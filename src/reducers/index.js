@@ -1,3 +1,4 @@
+// @flow
 import { createStore, combineReducers } from "redux";
 import todo from "./todo";
 
